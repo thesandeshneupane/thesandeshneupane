@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesandeshneupane&label=Profile%20views&color=0e75b6&style=flat" alt="thesandeshneupane" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thesandeshneupane" alt="thesandeshneupane" /></a> </p>
-
 <p align="left"> <a href="https://thesandeshneupane.com/" target="blank"><img src="https://img.shields.io/twitter/follow/thesandeshn?logo=twitter&style=for-the-badge" alt="thesandeshn" /></a> </p>
 
 - 🔭 I’m currently working on **semester projects and other self made projects**
