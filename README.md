@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C, C++, Python, JavaScript, HTML, CSS and more**
 
-- 🤝 I’m looking for help with **AI and Cyber Security**
+- 🤝 I’m looking for help with **Cyber Security**
 
 - 📝 I regularly write articles on [https://thesandeshneupane.com/](https://thesandeshneupane.com/)
 
