@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm The Sandesh Neupane</h1>
+<h1 align="center">Hi 👋, I'm Sandesh Neupane</h1>
 <h3 align="center">A passionate developer (learner for now) from Nepal.</h3>
 <img align ="right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif">
 
