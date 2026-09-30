@@ -35,4 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesandeshneupane&" alt="thesandeshneupane" /></p>
 ![GitHub Snake](https://raw.githubusercontent.com/thesandeshneupane/thesandeshneupane/output/github-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thesandeshneupane/thesandeshneupane/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
